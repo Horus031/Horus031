@@ -9,7 +9,7 @@
 - 🎓 Passionate about web development and modern JS frameworks
 - 🚀 Building scalable apps with React, Redux, Vite, and TailwindCSS
 - 💡 Always learning new tech and sharing knowledge
-- 🔭 I’m currently working on [Eleraning Project (NextJS)](https://github.com/Horus031/Elearning-NextJS)
+- 🔭 I’m currently working on [Greenwich Academic Portal)](https://github.com/Horus031/FGW-Frontend)
 - 🌱 I’m currently learning **TypeScript, NextJS, C#**
 - 💬 Ask me about **ReactJS, C#**
 - 📫 How to reach me **vominhnghia1878@gmail.com**
