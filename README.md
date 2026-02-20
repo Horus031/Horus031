@@ -37,42 +37,52 @@ I value **clean architecture, scalable systems, and continuous learning**, and I
 ---
 
 <!-- ===================== PROJECTS ===================== -->
-## Projects - showcase
+## Projects
 
 <table>
   <tr>
-    <a href="https://github.com/Horus031/FGW-Frontend">
-      <td align="center" width="33%">
-        <img src="https://github.com/Horus031/Horus031/blob/c6f0200a1a6d973a768838387835d7bb86d6766c/Frame%201.png"
-             alt="FGW Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-        <br/>
-        <b>Greeenwich AP System</b><br/>
-        UI/UX Designer | Frontend Developer<br/>
-        <sub>Refactored Academic Portal System for University of Greenwich Vietnam.</sub><br/>
-        <br/>
-        <sub>Tags: Web Development, UI/UX Designer</sub>
-      </td>
-    </a>
-    <td align="center" width="33%">
-        <img src="https://github.com/Horus031/Horus031/blob/c6f0200a1a6d973a768838387835d7bb86d6766c/Screenshot%202026-02-20%20204800.png"
-             alt="WeaveCarbon Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      <br/>
-      <b>WeaveCarbon</b><br/>
-      UI/UX Designer | Frontend Developer<br/>
-      <sub>End-of-Life Managing System for Business, applicable for Fashion / Textile / Footwear.</sub><br/>
-      <br/>
-      <sub>Tags: Web Development, AI</sub>
-    </td>
     <td align="center" width="33%">
         <img src="https://github.com/Horus031/Horus031/blob/c9098439488b308d96bbe8de4ce23647850f35e1/9be3516d676ac0058ce16384d17cbf40.jpg"
              alt="Lumivox Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       <br/>
       <b>Lumivox (In Progress)</b><br/>
-      UI/UX Designer | Full-stack Developer<br/>
-      <sub>A Data-Driven Learning and Productivity Support Platform Using Behavioral Analysis and AI-Based Recommendations.</sub><br/>
+      <sub><b>UI/UX Designer | Full-stack Developer</b></sub><br/>
+      <sub>Productivity Support Platform Using Behavioral Analysis and AI-Based Recommendations.</sub><br/>
+      <br/>
+      <a href="https://github.com/Horus031/Lumivox" target="_blank">
+        <img src="https://custom-icon-badges.demolab.com/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+      </a>
+      <br/>
+      <sub>Tags: Web Development, AI</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/Horus031/Horus031/blob/c6f0200a1a6d973a768838387835d7bb86d6766c/Frame%201.png"
+           alt="FGW Project"
+           style="width:100%; height:200px; object-fit:cover;"/>
+      <br/>
+      <b>Greeenwich AP System</b><br/>
+      <sub><b>UI/UX Designer | Frontend Developer</b></sub><br/>
+      <sub>Refactored Academic Portal System for University of Greenwich Vietnam.</sub><br/>
+      <br/>
+      <a href="https://github.com/Horus031/Lumivox" target="_blank">
+        <img src="https://custom-icon-badges.demolab.com/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+      </a>
+      <br/>
+      <sub>Tags: Web Development, UI/UX Designer</sub>
+    </td>
+    <td align="center" width="33%">
+        <img src="https://github.com/Horus031/Horus031/blob/c6f0200a1a6d973a768838387835d7bb86d6766c/Screenshot%202026-02-20%20204800.png"
+             alt="WeaveCarbon Project"
+             style="width:100%; height:200px; object-fit:cover;"/>
+      <br/>
+      <b>WeaveCarbon</b><br/>
+      <sub><b>UI/UX Designer | Frontend Developer</b></sub><br/>
+      <sub>End-of-Life Managing System for Business, applicable for Fashion / Textile / Footwear.</sub><br/>
+      <br/>
+      <a href="https://github.com/Horus031/Lumivox" target="_blank">
+        <img src="https://custom-icon-badges.demolab.com/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+      </a>
       <br/>
       <sub>Tags: Web Development, AI</sub>
     </td>
@@ -84,13 +94,16 @@ I value **clean architecture, scalable systems, and continuous learning**, and I
 <!-- ===================== GITHUB STATS ===================== -->
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Horus031&show_icons=true&theme=default&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Horus031&layout=compact&hide_border=true"/>
-</p>
+<table align="center" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Horus031&show_icons=true&theme=dark" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Horus031&layout=compact&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
