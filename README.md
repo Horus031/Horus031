@@ -16,10 +16,10 @@ I value **clean architecture, scalable systems, and continuous learning**, and I
   <a href="mailto:vominhnghia1878@gmail.com">
     <img src="https://custom-icon-badges.demolab.com/badge/Email-Contact-EA4335?style=for-the-badge&logo=mail&logoColor=white&labelColor=BB001B"/>
   </a>
-  <a href="https://www.linkedin.com/in/nghiavm/">
+  <a href="https://www.linkedin.com/in/nghiavm/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182"/>
   </a>
-  <a href="https://www.facebook.com/horuss.if/">
+  <a href="https://www.facebook.com/horuss.if/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0E5AAB"/>
   </a>
   <!--
