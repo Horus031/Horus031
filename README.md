@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
-# 👁️ Vo Minh Nghia
-**`Final-Year Student | Web Developer | AI/ML Learner`**
+# Vo Minh Nghia (Horus)
+**`Final-Year Student · Web Developer · AI/ML Learner`**
 
 <!-- ===================== ABOUT ===================== -->
 ## About Me
@@ -10,7 +10,7 @@ I am a **final-year university student** specializing in **Web Development**, wi
 Currently, my career focus is on **Web Developer roles**, where I aim to sharpen my practical skills by building real-world products.  
 At the same time, I am actively learning **AI / Machine Learning**, with a long-term goal of transitioning into AI-related engineering roles after gaining solid industry experience in web development.
 
-I value **clean architecture, scalable systems, and continuous learning**, and I am steadily moving from academic projects toward **production-oriented applications**.
+I value **clean architecture, scalable systems, and continuous learning**, and I am steadily transitioning from academic projects to **production-oriented applications**.
 
 <p align="left">
   <a href="mailto:vominhnghia1878@gmail.com">
@@ -32,7 +32,7 @@ I value **clean architecture, scalable systems, and continuous learning**, and I
 <!-- ===================== TECH STACK ===================== -->
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nestjs,git,github,aws,blender,ps,figma,ai&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,nextjs,nestjs,git,github,aws,blender,figma,ps,ai&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -61,11 +61,11 @@ I value **clean architecture, scalable systems, and continuous learning**, and I
            alt="FGW Project"
            style="width:100%; height:200px; object-fit:cover;"/>
       <br/>
-      <b>Greeenwich AP System</b><br/>
+      <b>Greenwich AP System</b><br/>
       <sub><b>UI/UX Designer | Frontend Developer</b></sub><br/>
       <sub>Refactored Academic Portal System for University of Greenwich Vietnam.</sub><br/>
       <br/>
-      <a href="https://github.com/Horus031/Lumivox" target="_blank">
+      <a href="https://github.com/Horus031/FGW-Frontend" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
       </a>
       <br/>
@@ -80,7 +80,7 @@ I value **clean architecture, scalable systems, and continuous learning**, and I
       <sub><b>UI/UX Designer | Frontend Developer</b></sub><br/>
       <sub>End-of-Life Managing System for Business, applicable for Fashion / Textile / Footwear.</sub><br/>
       <br/>
-      <a href="https://github.com/Horus031/Lumivox" target="_blank">
+      <a href="https://github.com/Horus031/weavecarbon-frontend" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/badge/View-Repository-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
       </a>
       <br/>
@@ -88,6 +88,57 @@ I value **clean architecture, scalable systems, and continuous learning**, and I
     </td>
   </tr>
 </table>
+<p>
+  <b>Other learning-oriented projects:</b><br/>
+  <table width="100%">
+    <tr>
+      <td>
+        <b>AirBnb – Room Booking System</b> <sub>(NestJS)</sub><br/>
+        <sub>Backend system for room booking with RESTful APIs and authentication</sub>
+      </td>
+      <td align="right">
+        <a href="https://github.com/Horus031/airbnb-nestjs-capstone" target="_blank">
+          <img src="https://custom-icon-badges.demolab.com/badge/View-Repo-181717?logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+     <tr>
+      <td>
+        <b>Elearning Project</b> <sub>(ReactJS)</sub><br/>
+        <sub>Course Learning Platform for students</sub>
+      </td>
+      <td align="right">
+        <a href="https://github.com/Horus031/Elearning-ReactJS" target="_blank">
+          <img src="https://custom-icon-badges.demolab.com/badge/View-Repo-181717?logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+     <tr>
+      <td>
+        <b>Confession Platform</b> <sub>(JavaScript)</sub><br/>
+        <sub>Social platform built with Vanilla JavaScript for anonymous sharing</sub>
+      </td>
+      <td align="right">
+        <a href="https://github.com/Horus031/ConfessionPlatformProject" target="_blank">
+          <img src="https://custom-icon-badges.demolab.com/badge/View-Repo-181717?logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Vietnam Journey Bot</b> <sub>(ReactJS)</sub><br/>
+        <sub>Chatbot suggesting travel itineraries with MapBoxGL-based visualization</sub>
+      </td>
+      <td align="right">
+        <a href="https://github.com/Horus031/vietnam-journey-bot" target="_blank">
+          <img src="https://custom-icon-badges.demolab.com/badge/View-Repo-181717?logo=github&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
 
 ---
 
