@@ -16,17 +16,25 @@ I value **clean architecture, scalable systems, and continuous learning**, and I
   <a href="mailto:vominhnghia1878@gmail.com">
     <img src="https://custom-icon-badges.demolab.com/badge/Email-Contact-EA4335?style=for-the-badge&logo=mail&logoColor=white&labelColor=BB001B"/>
   </a>
-  <a href="https://www.linkedin.com/in/nghiavm/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182"/>
-  </a>
+  <!-- Facebook -->
   <a href="https://www.facebook.com/horuss.if/" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0E5AAB"/>
   </a>
-  <!--
-  <a href="https://your-portfolio.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-Visit-24292F?style=for-the-badge&logo=browser&logoColor=white&labelColor=000000"/>
+
+  <!-- Discord -->
+  <a href="https://discord.gg/vqnesu7mZM" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=404EED"/>
   </a>
-  -->
+
+  <!-- GitHub -->
+  <a href="https://github.com/Horus031" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/nghiavm/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Career-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <!-- ===================== TECH STACK ===================== -->
