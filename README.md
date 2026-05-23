@@ -52,7 +52,7 @@ I value **clean architecture, scalable systems, and continuous learning**, and I
              style="width:100%; height:200px; object-fit:cover;"/>
       <br/>
       <b>Lumivox (In Progress)</b><br/>
-      <sub><b>UI/UX Designer | Full-stack Developer</b></sub><br/>
+      <sub><b>Full-stack Developer | UI/UX Designer</b></sub><br/>
       <sub>Productivity Support Platform Using Behavioral Analysis and AI-Based Recommendations.</sub><br/>
       <br/>
       <a href="https://github.com/Horus031/Lumivox" target="_blank">
@@ -67,7 +67,7 @@ I value **clean architecture, scalable systems, and continuous learning**, and I
            style="width:100%; height:200px; object-fit:cover;"/>
       <br/>
       <b>Greenwich AP System</b><br/>
-      <sub><b>UI/UX Designer | Frontend Developer</b></sub><br/>
+      <sub><b>Frontend Developer | UI/UX Designer</b></sub><br/>
       <sub>Refactored Academic Portal System for University of Greenwich Vietnam.</sub><br/>
       <br/>
       <a href="https://github.com/Horus031/FGW-Frontend" target="_blank">
@@ -82,7 +82,7 @@ I value **clean architecture, scalable systems, and continuous learning**, and I
              style="width:100%; height:200px; object-fit:cover;"/>
       <br/>
       <b>WeaveCarbon</b><br/>
-      <sub><b>UI/UX Designer | Frontend Developer</b></sub><br/>
+      <sub><b>Frontend Developer | UI/UX Designer</b></sub><br/>
       <sub>End-of-Life Managing System for Business, applicable for Fashion / Textile / Footwear.</sub><br/>
       <br/>
       <a href="https://github.com/Horus031/weavecarbon-frontend" target="_blank">
