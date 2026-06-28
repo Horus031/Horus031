@@ -1,13 +1,13 @@
 <!-- ===================== HEADER ===================== -->
 # Vo Minh Nghia (Horus)
-**`Final-Year Student · Web Developer · AI/ML Learner`**
+**`Final-Year Student · Fullstack Developer · AI/ML Learner`**
 
 <!-- ===================== ABOUT ===================== -->
 ## About Me
 
-I am a **final-year university student** specializing in **Web Development**, with a strong foundation in modern frontend and backend technologies.
+I am a **final-year university student** specializing in **Fullstack Development**, with a strong foundation in modern frontend and backend technologies.
 
-Currently, my career focus is on **Web Developer roles**, where I aim to sharpen my practical skills by building real-world products.  
+Currently, my career focus is on **Fullstack Developer roles**, where I aim to sharpen my practical skills by building real-world products.  
 At the same time, I am actively learning **AI / Machine Learning**, with a long-term goal of transitioning into AI-related engineering roles after gaining solid industry experience in web development.
 
 I value **clean architecture, scalable systems, and continuous learning**, and I am steadily transitioning from academic projects to **production-oriented applications**.
