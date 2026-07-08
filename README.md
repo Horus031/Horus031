@@ -47,7 +47,7 @@ I value **clean architecture, scalable systems, and continuous learning**, and I
 <table>
   <tr>
     <td align="center" width="33%">
-        <img src="https://github.com/Horus031/Horus031/blob/c9098439488b308d96bbe8de4ce23647850f35e1/9be3516d676ac0058ce16384d17cbf40.jpg"
+        <img src="Screenshot 2026-07-08 101734.png"
              alt="Lumivox Project"
              style="width:100%; height:200px; object-fit:cover;"/>
       <br/>
