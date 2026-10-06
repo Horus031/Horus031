@@ -153,10 +153,10 @@ I value **clean architecture, scalable systems, and continuous learning**, and I
 <table align="center" width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Horus031&show_icons=true&theme=dark" />
+     <img src="https://github-readme-stats-delta-henna-38.vercel.app/api?username=Horus031&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165" alt="Horus031's GitHub statistics" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Horus031&layout=compact&theme=dark" />
+      <img src="https://github-readme-stats-delta-henna-38.vercel.app/api/top-langs/?username=Horus031&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Horus031's most used languages" />
     </td>
   </tr>
 </table>
